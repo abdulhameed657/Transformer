@@ -1,4 +1,4 @@
-pip install transformers
+pip install transformer
 import streamlit as st
 from transformers import pipeline
 
